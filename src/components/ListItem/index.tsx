@@ -1,5 +1,5 @@
 import { useState } from 'react';
-import * as C from './style';
+import * as C from './styles';
 import { Item } from '../../types/Item';
 type Props = {
     item: Item
